@@ -43,7 +43,7 @@ The datasets contain a series of gesture data perceived by sound waves for adver
 
 ## ✔️Usage
 
-1. **Download**: Clone or download the dataset locally. **Due to the number of files, we have also placed the datasets on Google Drive.**
+1. **Download**: Clone or download the dataset locally. **Due to potentially unstable network connections and the number of files, we have also placed the datasets on Google Drive.**
 
 ```bash
 git clone https://github.com/ISAC-GROUP/UltraGSAttack.git
