@@ -12,7 +12,7 @@ The datasets contain a series of gesture data perceived by sound waves for adver
 
 - **Collecting device:** Samsung Galaxy Tab S2.
 
-- Some specific details include orientation, environment, posture and distance. If further clarification is needed, please feel free to contact the authors. Alternatively, you can visit [https://github.com/ISAC-GROUP/ISAC-Gesture](https://github.com/ISAC-GROUP/ISAC-Gesture) and read our published paper *PreGesNet: Few-Shot Acoustic Gesture Recognition Based on Task-Adaptive Pretrained Networks* for more detailed information.
+- Some specific details include orientation, environment, posture and distance. If further clarification is needed, please feel free to contact the authors. Alternatively, you can visit [https://github.com/ISAC-GROUP/ISAC-Gesture](https://github.com/ISAC-GROUP/ISAC-Gesture) and our published paper *PreGesNet: Few-Shot Acoustic Gesture Recognition Based on Task-Adaptive Pretrained Networks* for more detailed information.
 
 ## ⚙️File Structure
 
@@ -43,14 +43,14 @@ The datasets contain a series of gesture data perceived by sound waves for adver
 
 ## ✔️Usage
 
-1. **Download**: Clone or download the dataset locally. **Due to potentially unstable network connections and the number of files, we have also placed the datasets on Google Drive.**
-
-```bash
-git clone https://github.com/ISAC-GROUP/UltraGSAttack.git
-```
+1. **Download**: **Due to potentially unstable network connections and the number of files, we have placed the complete datasets on Google Drive.**
 
 ```bash
 https://drive.google.com/drive/folders/1qkWu9JBX8QUZPGHs6srjWEEbrEF69GQa?usp=sharing
+```
+
+```bash
+git clone https://github.com/ISAC-GROUP/UltraGSAttack.git
 ```
 
 2. **Data format:** Datasets are stored as wav files in their respective category folders.
